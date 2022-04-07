@@ -16,6 +16,8 @@ $(document).keypress(function(event)
 
 {   if (!started)
     {
+    gamePattern = [];
+    userClickedColor=[];
     $("#level-title").text("Level "+level);
     nextSequence();
     started=true;
