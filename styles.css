@@ -2,6 +2,10 @@ body {
   text-align: center;
   background-color: #011F3F;
 }
+p
+{
+  color:#fff
+}
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
