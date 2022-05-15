@@ -4,7 +4,8 @@ body {
 }
 p
 {
-  color:"white";
+  color: #FEF2BF;
+  font-family: 'Press Start 2P', cursive;
 }
 
 #level-title {
